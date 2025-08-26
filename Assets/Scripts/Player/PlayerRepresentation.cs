@@ -1,0 +1,217 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.InputSystem;
+
+/// <summary>
+/// This class handles moving the player's representation which is detached from the movement controls
+/// to make the math related to movement easier.
+/// 
+/// This script will make the player's representation (model) face in the direction the player controller is moving
+/// </summary>
+public class PlayerRepresentation : MonoBehaviour {
+
+    [Header("Needed References")]
+    [Tooltip("The player gameobject that has the third person character controller attached to it")]
+    public ThirdPersonCharacterController playerCharacterController;
+    [Tooltip("The animator that animates the visual representation of the player")]
+    public Animator representationAnimator;
+
+    [Header("Input Actions")]
+    [Tooltip("The input that moves the player")]
+    public InputAction moveInput;
+    [Tooltip("The input that moves the flying player")]
+    public InputAction flyInput;
+
+    /// <summary>
+    /// Standard Unity function called whenever the attached gameobject is enabled
+    /// </summary>
+    private void OnEnable()
+    {
+        if (playerCharacterController.isFlying)
+        {
+            flyInput.Enable();
+        }
+        else
+        {
+            moveInput.Enable();
+        }
+    }
+
+    /// <summary>
+    /// Standard Unity function called whenever the attached gameobject is disabled
+    /// </summary>
+    private void OnDisable()
+    {
+        if (playerCharacterController.isFlying)
+        {
+            flyInput.Disable();
+        }
+        else
+        {
+            moveInput.Disable();
+        }
+    }
+
+    /// <summary>
+    /// Description:
+    /// Standard Unity function called once per frame
+    /// Inputs:
+    /// none
+    /// Retuns:
+    /// void
+    /// </summary>
+    void Update() {
+        CentralizedControl(moveInput.ReadValue<Vector2>().x, moveInput.ReadValue<Vector2>().y);
+        ApplyAnimation();
+    }
+
+    /// <summary>
+    /// Description:
+    /// Handles swithing between control styles if more than one is coded in
+    /// Inputs:
+    /// float leftCharacterMovement | float rightCharacterMovement
+    /// Returns:
+    /// void
+    /// </summary>
+    /// <param name="leftCharacterMovement">The movement input along the horizontal</param>
+    /// <param name="rightCharacterMovement">The movement input along the vertical</param>
+    void CentralizedControl(float leftCharacterMovement, float rightCharacterMovement)
+    {
+        if (playerCharacterController.playerState == ThirdPersonCharacterController.PlayerState.Dead)
+        {
+            // Do nothing when the player is dead
+        }
+        else
+        {
+            NormalControl(leftCharacterMovement, rightCharacterMovement);
+        }
+    }
+
+    /// <summary>
+    /// Description:
+    /// Handles motion of the player representation under the average or normal use case
+    /// Inputs:
+    /// float leftCharacterMovement | float rightCharacterMovement
+    /// Returns:
+    /// void
+    /// </summary>
+    /// <param name="leftCharacterMovement">The movement input along the horizontal</param>
+    /// <param name="rightCharacterMovement">The movement input along the vertical</param>
+    void NormalControl(float leftCharacterMovement, float rightCharacterMovement)
+    {
+        Vector3 movementDirection = new Vector3(leftCharacterMovement, 0, rightCharacterMovement);
+        if (movementDirection != Vector3.zero)
+        {
+            Quaternion rotation = Quaternion.LookRotation(movementDirection, Vector3.up);
+            rotation = Quaternion.Euler(rotation.eulerAngles.x, playerCharacterController.transform.rotation.eulerAngles.y + rotation.eulerAngles.y, rotation.eulerAngles.z);
+            transform.rotation = rotation;
+        }
+    }
+
+    [Tooltip("A 'Parent' object to follow as if this was a child without rotation following")]
+    public Transform parent;
+
+    [Header("Following Settings")]
+    [Tooltip("An offeset to follow at")]
+    public Vector3 offset;
+
+    /// <summary>
+    /// Description:
+    /// Attempts to apply animation to the animator according to the player controllers state
+    /// Input:
+    /// none
+    /// Return:
+    /// void (no return)
+    /// </summary>
+    void ApplyAnimation()
+    {
+        if (representationAnimator == null)
+        {
+            return;
+        }
+
+        // Get the player state
+        ThirdPersonCharacterController.PlayerState currentPlayerState = playerCharacterController.playerState;
+
+        // Idle
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.Idle)
+        {
+            representationAnimator.SetBool("isIdle", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isIdle", false);
+        }
+
+        // Jumping
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.Jumping)
+        {
+            representationAnimator.SetBool("isJumping", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isJumping", false);
+        }
+
+        // Running
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.Moving)
+        {
+            representationAnimator.SetBool("isRunning", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isRunning", false);
+        }
+
+        // Flying
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.Flying)
+        {
+            representationAnimator.SetBool("isFlying", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isFlying", false);
+        }
+
+        // Praying
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.Praying)
+        {
+            representationAnimator.SetBool("isPraying", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isPraying", false);
+        }
+
+        // Rapid Casting
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.RCasting)
+        {
+            representationAnimator.SetBool("isAttacking", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isAttacking", false);
+        }
+
+        // Middle Casting
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.BCasting)
+        {
+            representationAnimator.SetBool("isBuffing", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isBuffing", false);
+        }
+
+        // Long Casting
+        if (currentPlayerState == ThirdPersonCharacterController.PlayerState.LCasting)
+        {
+            representationAnimator.SetBool("isInvoking", true);
+        }
+        else
+        {
+            representationAnimator.SetBool("isInvoking", false);
+        }
+    }
+}

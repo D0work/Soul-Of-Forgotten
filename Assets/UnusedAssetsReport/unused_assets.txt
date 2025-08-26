@@ -1,0 +1,988 @@
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (7).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon03_Heightmap.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Front_4K_TEX.png
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (7).wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Shaders/Noise_0_1024.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_A_Normal.tif
+Assets/Scripts/Player/Transformation.cs
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (3).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/BushDry_Thickness.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Weapons SFX Full Package.txt
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+Assets/Scripts/Utilities/MoveTo.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge01_Heightmap.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Back_2K_TEX.png
+Assets/URP Assets/WorldMaterialsFree/Shaders/WorldMatHDRPFree.shader
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_C_MaskMap.tif
+Assets/Scripts/Environment/Spawner.cs
+Assets/Art/Environment/Snow Mountain/Stylize Snow Texture/Textures/Vol_22_4_Height.png
+Assets/Scripts/Player/Health.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Rock_MaskMap.tif
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (7).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_height.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Smoothness.png
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Rust_MetallicSmoothness.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/ThirdPartyNotices.txt
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Albedo.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_roughness.png
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/Art/Environment/Shaders/TerrainTex(Delete)/Materials/Skybox.mat
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_smoothness.png
+Assets/Documents/Slides/slide 7 (2).png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Left_4K_TEX.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/TexturesMaterials/Portal_Normal.png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/column_Albedo_Smoothness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_YFliped_normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Grass_Ao.png
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Demo Scene/Materials/Skybox.mat
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-left.tif
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Door_MetallicSmoothness.png
+Assets/Art/Environment/Snow Mountain/Source/tga/mountain_Snow_000_Normal.tga
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+Assets/Art/Orbs/Material/Orb-9-1/Electric 1.mat
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/spiritsMix1.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain11_Heightmap.tiff
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Table_Normal.png
+Assets/Art/Orbs/Texture/nc-Orb10Text 1.png
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/BlackWyvern/Dragon_BlackWyvern_MetallicSmoothness.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon01_Heightmap.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/Wind_ShortW.wav
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S3/Kid Ghost_blinn1_BaseColor.png
+Assets/Art/characterEffects/shaders/auraEffect/aura texture.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Up_2K_TEX.png
+Assets/Prefabs/RedDragon 1.2/Assets/Scripts/DragonExample.cs
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+Assets/URP Assets/WorldMaterialsFree/Shaders/WorldMatLiteFree.shader
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (1) Loop.wav
+Assets/Art/Environment/anubis-divine-temple/textures/GOLD_-2_roughness.png
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (3).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_height.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_ao.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Smoothness.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/FlashW.wav
+Assets/Scripts/Utilities/ActivateCondition.cs
+Assets/Art/Environment/TileableBricksWall/Textures/Bricks_diffuse.TGA
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Rift/TexturesMaterials/Rift_Emission.png
+Assets/Art/Audio/Nature Sound FX/Fire/Fire (4) Loop.wav
+Assets/Documents/Slides/slide 3.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Down_4K_TEX.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Roughness.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Loot_VFX_Extra_01.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Normal.png
+Assets/Art/Audio/Epic Boss Battles - Free Track/2 - Phat Phrog Studios - Epic Boss Battles - Unleashing Chaos.wav
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/5. Dread March (Loop).wav
+Assets/Art/Environment/TileableBricksWall/Textures/Bricks_normal.TGA
+Assets/Art/Audio/Asian Flavours/0115_JapaneseWinter_Layer1+3_MZ.wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/MoonPart.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Plateau03_Heightmap.tif
+Assets/Scripts/Utilities/SaveSystem.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Albedo.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Normal.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (7).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Moss_Normal.tif
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Heather_A.asset
+Assets/Art/Audio/Asian Flavours/0120_TheDojo_Full_MZ.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Muddy_BaseColor.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (10).wav
+Assets/Art/Audio/Asian Flavours/0110_JapaneseWinter_Full_MZ.wav
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (1).wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Right_1K_TEX.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Demo/RotatorTool.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_height.png
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (4).wav
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Terrain Grass.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (3).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (5).wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalRound/TexturesMaterials/PortalRound_Normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Soil_MaskMap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_AO.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/RuneStone/TexturesMaterials/RunePortal_Albedo.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Smoothness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_smoothness.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Up_2K_TEX.png
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (3) Loop.wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_BLUE_roughness.png
+Assets/Art/Environment/Shaders/Lava/LavaNormal.png
+Assets/Art/Environment/temple-environment-crystal/textures/bricktile_nrm.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain04_Heightmap.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02_Sunless.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Essential_Trails_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_MaskMap.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (9).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge03_Heightmap.tif
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (8).wav
+Assets/Documents/Images/Central Area.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain09_Heightmap.tiff
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (6).wav
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Table_Albedo_Smoothness.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (3).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Sand_BaseColor.tif
+Assets/Art/Player/Butterfly (Animated)/Demo Scene/Demo_ButterflySettings.lighting
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_Albedo.png
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_03.tga
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Down_1K_TEX.png
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (4) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Shaders/WorldMatFree.shader
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Demo without terrain.unity
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Right_2K_TEX.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Front_4K_TEX.png
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (6).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Errosion01_Heightmap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Sand_MaskMap.tif
+Assets/Art/Orbs/Material/Orb-8-1/Sphere.mat
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Normal.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Bush Leaves.png
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Directional_Dust_01.tga
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-front.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Back_1K_TEX.png
+Assets/Art/Orbs/Material/Orb-9-2/Electric 2.mat
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+Assets/Scripts/Ennemies/DragonController.cs
+Assets/Documents/Slides/slide 7.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Terrain Rock.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_height.png
+Assets/Scripts/Environment/MaterialList.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (7).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Plateau01_Heightmap.tif
+Assets/Art/Orbs/Texture/nc-Inside-Glow 1.png
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (6).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_AO.png
+Assets/URP Assets/TutorialInfo/Icons/URP.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03_Moonless.png
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Lattice_AlbedoTransparency.png
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Up_Tex.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Right_2K_TEX.png
+Assets/Art/Environment/anubis-divine-temple/textures/GEM_BLUE_emission.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (8).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (7).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Albedo.png
+Assets/Art/Environment/TileableBricksWall/Textures/Height_map.TGA
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (5) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Height.png
+Assets/Documents/Souls of the Forgotten - Game Pitch.mp4
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Flat_Mountain01_Heightmap.tif
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S2/Kid Ghost_blinn1_BaseColor.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/Orb.wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling into (1).wav
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_BaseColor.tif
+Assets/Art/Environment/temple-environment-crystal/textures/Bricktile_diff.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_AO.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Down_1K_TEX.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Materials/Skybox.mat
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/BushDry_Normal.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/Emotesnew.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Albedo.png
+Assets/Art/Audio/Asian Flavours/0111_JapaneseWinter_Layer1_MZ.wav
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (5).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Black_Sand_MaskMap.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05_Sunless.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Back_2K_TEX.png
+Assets/Documents/Slides/slide 9 (1).png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Wall_Albedo_Smoothness.png
+Assets/Art/Audio/Nature Sound FX/Fire/Fire (2) Loop.wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/Noise_1024.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Readme.txt
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_normal.png
+Assets/Art/Environment/Shaders/TerrainTex(Delete)/Materials/360_F_477109553_vGKiaY0mx1pO0S6tOzJQQPAUo3O91CF2.mat
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Default_White.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/Star_512.png
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/BlackWyvern/Dragon_BlackWyvern_Normal.tga
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (2).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Sand_Normal.tif
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Misc/HDRI.hdr
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/Red/Dragon_Dragon_Normal.tga
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (6).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (4).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (2).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (2).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/BushDry_BaseColor.tif
+Assets/Scripts/Utilities/TimedObjectDeActive.cs
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (4).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_A_BaseColor.tif
+Assets/Art/Audio/Nature Sound FX/Water/Water (4) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge_Edge01_Heightmap.tif
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/1. Whispers of the Abyss.wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/CreakyImpact.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Front_1K_TEX.png
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/TexturesMaterials/Portal_Effect_Edge.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Rock_Normal.tif
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (5).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Up_4K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Gun shell.wav
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_01.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_B_BaseColor.tif
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_MaskMap.tif
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Down_Tex.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif
+Assets/Art/Environment/anubis-divine-temple/textures/MAGIC_CIRCLE.png
+Assets/Scripts/Utilities/MaterialApplier.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Island01_Heightmap.tif
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Ghost Kid/New Skins/S1/Kid Ghost_blinn1_BaseColor.png
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Front_2K_TEX.png
+Assets/Scripts/Player/PlayerController.cs
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03.png
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/3. Eclipsed Desolation.wav
+Assets/Scripts/Utilities/UnusuedAssetsScanner.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Heather_MaskMap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/GrassDry_B.asset
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Roughness.png
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (2) Loop.wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/TexturesMaterials/Portal_MetallicSmoothness.png
+Assets/Art/Environment/Skyboxes/Martian/MartianSkybox4.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_Albedo.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge04_Heightmap.tif
+Assets/Scripts/Environment/MovingPlatform.cs
+Assets/Art/Vefects/Free Fire VFX URP/Audio/SFX_FireBig_L.wav
+Assets/Art/Audio/Nature Sound FX/Jungle/jungle (9).wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Anime_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain10_Heightmap.tiff
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/4. Cursed Citadel .wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/SphereHighLightTranspP_1024.png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Floor_Albedo_Smoothness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_ao.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Demo/Gradient_512.png
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (3).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_normal.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (4).wav
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_normal.png
+Assets/Art/Vefects/Free Fire VFX URP/Audio/SFX_FireSmall_L.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Front_1K_TEX.png
+Assets/Art/Environment/anubis-divine-temple/textures/HEART_MATERIAL_color.png
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (4).wav
+Assets/Scripts/Environment/SetColor.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_YFliped_Normal.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_YFliped_normal.png
+Assets/Art/Audio/Nature Sound FX/Water/Water (1) Loop.wav
+Assets/Art/Environment/temple-environment-crystal/textures/crystal_spec.png
+Assets/Documents/High-Concept-Document.pdf
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (6).wav
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Misc/Doctor Glitch.otf
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain06_Heightmap.tif
+Assets/Art/characterEffects/shaders/hologramEffect/HologramLinesSimple.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/RuneBlast.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_height.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (1).wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_Smoothness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Plant_A.asset
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_AO.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Moss_BaseColor.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalRound/TexturesMaterials/PortalRound_MetallicSmoothness.png
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Back_Tex.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Gradient_Up_Down_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Grass_C.asset
+Assets/Art/Environment/Terrain/New Terrain 2.asset
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Smoothness.png
+Assets/Art/Environment/Shaders/Magma/Magma.png
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Mug_Normal.png
+Assets/Art/Player/koseki-bijou/textures/Emotes.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/ReleaseNotes.txt
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_Albedo.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling out (3).wav
+Assets/Art/Orbs/Texture/nc-Glow-Inner-Text.png
+Assets/Art/Environment/Snow Mountain/Source/tga/mountain_Snow_000_Aldedo.tga
+Assets/Art/Environment/temple-environment-crystal/textures/Trimsheet_diff.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (8) Loop.wav
+Assets/Art/Audio/GlobalMixer.mixer
+Assets/Art/Environment/temple-environment-crystal/textures/crystalbase_diff.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_roughness.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Grass_D.asset
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/Drone_017W.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Left_1K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (4).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (4).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Fern_A.asset
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Grass_B.asset
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (9).wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Right_1K_TEX.png
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Rust.png
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Textures/Ripple 1.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Albedo.png
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (2) Loop.wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling out (2).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_BaseColor.tif
+Assets/Scripts/Utilities/Speaker.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_height.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texure_Rock_Normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge02_Heightmap.tif
+Assets/Scripts/Manager/Pages.cs
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Right_4K_TEX.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/RuneStone/Script/Runestone_Controller.cs
+Assets/Art/Environment/Plans/ForestPlan.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/GrassDry_A.asset
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Vortex/Scripts/Vortex_Controller.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (6).wav
+Assets/Documents/Images/Game Loop.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_albedo.png
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Demo/DemoSceneSettings.lighting
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Heather_A_Normal.tif
+Assets/Scripts/Utilities/Saving.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Soil_Normal.tif
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/BlackWyvern/Dragon_BlackWyvern_AlbedoTransparency.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_height.png
+Assets/Art/Environment/Skyboxes/Martian/MartianSkybox1.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain08_Heightmap.tif
+Assets/Documents/Slides/slide 4.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge05_Heightmap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Fern_MaskMap.tif
+Assets/Art/Player/koseki-bijou/textures/BibuHeadfinishtexturetext.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Rift/TexturesMaterials/Rift_Normal_GL.png
+Assets/Art/Environment/Shaders/Scenes/Demo/Lightmap-0_comp_dir.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_smoothness.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Scenes/Showcase Demo Scene/OcclusionCullingData.asset
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Front_Tex.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Front_4K_TEX.png
+Assets/Art/Orbs/Texture/nc-Blue-Trail-Line.png
+Assets/Documents/Souls of the Forgotten.pdf
+Assets/Art/Environment/Prison cell/ExampleSettings.lighting
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Volcano01_Heightmap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Settings/HeightmapTexture.preset
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Demo Scene/Scenes/Demo SceneSettings.lighting
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Ghost Kid/Ghost Kid Blooded1.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/lightningAtlasP_2048.png
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Lattice_Normal.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Right_1K_TEX.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_Smoothness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_AO.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (1).wav
+Assets/Scripts/Player/Damage.cs
+Assets/Art/Orbs/Texture/nc-Yellow-Trail-Line.png
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Up_Tex.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Smoothness.png
+Assets/Documents/Slides/slide 5.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (3).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Muddy_Normal.tif
+Assets/Art/Audio/Nature Sound FX/Water/Water (2) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_ao.png
+Assets/Art/Environment/temple-environment-crystal/textures/trimsheet_spec.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Back_1K_TEX.png
+Assets/Documents/Slides/slide 10 (1).png
+Assets/Documents/Images/bubleButterfly-removebg-preview.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_smoothness.png
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Down_Tex.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (9).wav
+Assets/Art/Player/koseki-bijou/textures/BaseBodyfinishtext.png
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (5) Loop.wav
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (6) Loop.wav
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/ReadMe.txt
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Rift/TexturesMaterials/Rift_MetSmooth.png
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (2).wav
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (3) Loop.wav
+Assets/Art/Audio/NekoLegends/Music/PianoSoloSingles/Serenity.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Plant_C.asset
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Smoothness.png
+Assets/Art/Environment/TileableBricksWall/Textures/Bricks_specular.TGA
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Explosions_VFX_Extra_01.tga
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 1.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_01_Sunless.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Down_1K_TEX.png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Wall_AO.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02.png
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/6. Veil of Eternal Nightfall.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_normal.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Up_1K_TEX.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/sparks.wav
+Assets/Documents/Slides/slide 7 (3).png
+Assets/Art/Audio/Nature Sound FX/Water/Water (6) Loop.wav
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Foundation_Normal.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Textures/Particle Soft.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (1).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (4).wav
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (7).wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (4).wav
+Assets/Scripts/Environment/Congel.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon05_Heightmap.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Dirt_Diffuse.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Mug_AlbedoTransparency.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_C_MaskMap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_Albedo.png
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (1).wav
+Assets/URP Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Misc/FBXImporter.preset
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_VFX_Mega_Bundle_Pack_Extra_01.tga
+Assets/Scripts/Environment/CutFire.cs
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Rock_Diffuse.png
+Assets/Documents/Images/Cover.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Smoothness.png
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (6).wav
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Animated Sun.mp4
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_Normal.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Heather_BaseColor.tif
+Assets/Art/Orbs/Texture/nc-Hollow-Ring 1.png
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (7) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Plant_B.asset
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/2. Shadowforge Convergence (Loop).wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Back_4K_TEX.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_Albedo.png
+Assets/Art/Environment/Snow Mountain/Stylize Snow Texture/Textures/Vol_22_4_Roughness.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/Rune_Atlas_256.png
+Assets/Art/Player/koseki-bijou/textures/OutfitBaseTexFinish.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (3).wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/cracklingW.wav
+Assets/Art/FullOpaqueVFX/Documentation/README.txt
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_dir.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_ao.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_height.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/1K_Resolution/Left_1K_TEX.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Demo/Demo_Controller.cs
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (8).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_AO.png
+Assets/Scripts/Utilities/FollowLikeChild.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_smoothness.png
+Assets/Art/Player/Little_GhostLP(FREE)/Documentation/Documentation(Little Ghost FREE).txt
+Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Roughness.png
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/Art/Vefects/Free Fire VFX URP/Scene/Textures/Metrics_Grid_Normal.TGA
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/1. Whispers of the Abyss (Loop).wav
+Assets/Art/Environment/Skyboxes/DiverseSpace/Diverse Space Skybox Readme.txt
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Shaders/SH_Vefects_Extra_Billboard_01.shader
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/roundsmoothitem.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_ao.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalRound/TexturesMaterials/PortalRound_Emission.png
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/3. Eclipsed Desolation (Loop).wav
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Mug_MetallicSmoothness.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Front_1K_TEX.png
+Assets/Scripts/Player/Attributes.cs
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Terrain Sand.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Back_4K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (2).wav
+Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/BibuHairfinishtext.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_YFliped_Normal.png
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_07.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_Normal.tif
+Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/BaseBodyfinishtext.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Black_Sand_Normal.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (1).wav
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Grid.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Slope03_Heightmap.tiff
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_AO.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfliped_normal.png
+Assets/Art/Environment/Skyboxes/Martian/MartianSkybox2.png
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/Art/Environment/Shaders/TerrainTex(Delete)/RockN.png
+Assets/Art/Orbs/Documentation/Documentation.pdf
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Fire_Ground_Mask_01.tga
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (7).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_YFliped_Normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_AO.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_height.png
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/Art/Orbs/Texture/nc-TextureInner.png
+Assets/Scripts/Environment/SceneTrigger.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/Flare1.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Up_1K_TEX.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+Assets/Art/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Heat_Haze_01.shader
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_smoothness.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (6).wav
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_01.tga
+Assets/Art/Environment/temple-environment-crystal/textures/crystalbase_spec.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/RuneStone/TexturesMaterials/RunePortal_Normal.tga
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_02.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (7) Loop.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Right_4K_TEX.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_A_Normal.tif
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Wall_Normal.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/roundsmoothitem2.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Props/TexturesMaterials/Props_MetSmooth.png
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_BLUE_color.png
+Assets/Art/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Particles_Erosion_01.shader
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-right.tif
+Assets/Scripts/Environment/RevealController.cs
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Grass_A.asset
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Heather_Normal.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_YFliped_normal.png
+Assets/Art/Environment/temple-environment-crystal/textures/Crystal_diff.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Dry_Normal.tif
+Assets/Documents/Slides/slide 9.jpg
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/RuneStone/TexturesMaterials/Runes_Emmision.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+Assets/Scripts/Manager/Loading.cs
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Foundation_AO.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Heather_A_Thickness.tif
+Assets/Scripts/Manager/UIManager.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/Scripts/PortalGate_Controller.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (2).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Fern_C.asset
+Assets/Art/Orbs/Texture/nc-Glow-Circle.png
+Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/BibuHeadfinishtexturetext.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/README.pdf
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (4).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_C_Normal.tif
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (7).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Roughness.png
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Animated Fantasy Planet.mp4
+Assets/Art/Environment/Prison cell/Fire.png
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (6).wav
+Assets/Art/Environment/Shaders/TerrainTex(Delete)/Rock.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Up_4K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (6).wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_Emission.png
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (2).wav
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain05_Heightmap.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Normal.png
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/2. Shadowforge Convergence (Intro).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_C_BaseColor.tif
+Assets/Art/Environment/Shaders/Magma/MagmaEmision.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (5).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Muddy_MaskMap.tif
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Door_AlbedoTransparency.png
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Left_Tex.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (8).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Clouds_Heightmap.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (5).wav
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (8).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_height.png
+Assets/Art/Audio/Nature Sound FX/Water/Water (5) Loop.wav
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Ashes_01.tga
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the brick (1).wav
+Assets/Art/Environment/Shaders/Lava/Lava.png
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Left_1K_TEX.png
+Assets/Scripts/Utilities/DialogueManager.cs
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Door_Normal.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Level_Up_VFX_Extra_01.tga
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (5).wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Anime_Stylized_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_A_MaskMap.tif
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Vefects Top Secret.pdf
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Misc/Lighting Settings.lighting
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Back_Tex.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/column_AO.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/RuneCircle.png
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (1).wav
+Assets/URP Assets/WorldMaterialsFree/URP_FreeDemoSceneSettings.lighting
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (3).wav
+Assets/Art/Environment/Prison cell/Models/Props/Materials/Lattice_MetallicSmoothness.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Hills02_Heightmap.tiff
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_roughness.png
+Assets/Scripts/Environment/Respawn.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Hills01_Heightmap.tiff
+Assets/Art/Orbs/Texture/nc-Pink-Hollow-Ring.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Down_2K_TEX.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Roughness.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (1).wav
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Grass.png
+Assets/Scripts/Ennemies/EnnemyResetTrigger.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Heather_A_MaskMap.tif
+Assets/Scripts/Environment/Activate.cs
+Assets/Art/Environment/Snow Mountain/Stylize Snow Texture/Textures/Vol_22_4_Normal.png
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/2. Shadowforge Convergence (After Intro).wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Left_2K_TEX.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06_Sunless.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Shots_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_C_Thickness.tif
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/Red/Dragon_AlbedoTransparency.tga
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-back.tif
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_GREEN_roughness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_roughness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_YFliped_normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Plant_D.asset
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Front_2K_TEX.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Color Palette.png
+Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (8) Loop.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Back_2K_TEX.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_metallic.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Roughness.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_roughness.png
+Assets/Art/Environment/Temple/Texture/temple.png
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_A_MaskMap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_albedo.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_AO.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/GrassDry_C.asset
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif
+Assets/Art/Environment/Skyboxes/Martian/MartianSkybox3.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_normal.png
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Demo/Script/LookCamera.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Albedo.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_height.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Slope04_Heightmap.tiff
+Assets/Art/Player/Butterfly (Animated)/Butterfly (Animated).txt
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Snow_Normal.tif
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_GREEN_color.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/BushDry_MaskMap.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (5).wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (9).wav
+Assets/Documents/High Concept Document.odt
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_MetSmooth.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Slope02_Heightmap.tiff
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Fern_Thickness.tif
+Assets/Art/Player/Butterfly (Animated)/FBX/butterfly.fbm/hair_unity.tga
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/2. Shadowforge Convergence.wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Back_4K_TEX.png
+Assets/URP Assets/TutorialInfo/Layout.wlt
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-down.tif
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Heather_B.asset
+Assets/Art/Environment/TileableBricksWall/Textures/Bricks_gloss.TGA
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/RuneStone/TexturesMaterials/RunePortal_MetallicSmoothness.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Black_Sand_BaseColor.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Demo/ArenaFloorT_4096.tga
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalRound/TexturesMaterials/PortalRound_Color.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Reload (1).wav
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (3).wav
+Assets/Art/Environment/temple-environment-crystal/textures/bricktile_spec.png
+Assets/Art/Audio/6 Boss Battle Tracks/Tracks/5. Dread March .wav
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_albedo.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Down_2K_TEX.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_05.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/BushDry_A.asset
+Assets/Scripts/Player/PlayerRepresentation.cs
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain02_Heightmap.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Up_4K_TEX.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_A_Thickness.tif
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.png
+Assets/Art/Orbs/Texture/nc-Star.png
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_GREEN_emission.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.png
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (9) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Normal.png
+Assets/UnusedAssetsReport/unused_assets.txt
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/TexturesMaterials/Portal_Albedo.png
+Assets/Art/Environment/Snow Mountain/Stylize Snow Texture/Textures/Vol_22_4_Base_Color.png
+Assets/Art/Environment/Skyboxes/Martian/MartianSkybox5.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_roughness.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_B_Normal.tif
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the sword (6).wav
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+Assets/Art/Audio/SD Soundtracks - Album of Elements/Track 1 - Ice/Track 1 - Variation 1 - 5min 3s.wav
+Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_ORONGE_color.png
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (2).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_YFliped_Normal.png
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (5).wav
+Assets/Art/Environment/Snow Mountain/Scenes/SnowMountainsSettings.lighting
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_B_Normal.tif
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Spruce Tree Branch.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain03_Heightmap.tif
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Checker yellow black.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif
+Assets/Documents/Slides/slide 11.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Bush_A.asset
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Ash_01.tga
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling into (3).wav
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Fire_Mask_01.tga
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_smoothness.png
+Assets/Art/Audio/Asian Flavours/0112_JapaneseWinter_Layer2_MZ.wav
+Assets/Art/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Right_Tex.png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Foundation_Height.png
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Axe.png
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_08.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_YFliped_normal.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_YFliped_Normal.png
+Assets/Scripts/Manager/AttributeManager.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_roughness.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_B_MaskMap.tif
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (7) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_ao.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/Script/Portal_Controller.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Reload (2).wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Flipbook_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain01_Heightmap.tif
+Assets/Art/Environment/Snow Mountain/Stylize Snow Texture/Textures/Vol_22_4_Ambient_Occlusion.png
+Assets/Scripts/Manager/TriigerFinalScene.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/LowImplodeLongW.wav
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Foundation_Albedo_Smoothness.png
+Assets/Art/FullOpaqueVFX/Script/VFX_Controller.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Fern_Normal.tif
+Assets/Scripts/Utilities/FocusZone.cs
+Assets/Prefabs/RedDragon 1.2/Assets/Textures/Red/Dragon_MetallicSmoothness.tga
+Assets/Documents/Slides/slide 2.png
+Assets/Documents/Slides/Title Page.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Left_2K_TEX.png
+Assets/Art/characterEffects/explenationDocument/Explenation document.docx
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Wall_Height.png
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (8) Loop.wav
+Assets/Art/Environment/anubis-divine-temple/textures/GEM_BLUE_color.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_01_Moonless.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Flower.png
+Assets/Art/characterEffects/other/shield.png
+Assets/Art/Player/koseki-bijou/source/BibuModel.zip
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Plant_Normal.tif
+Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/OutfitBaseTexFinish.png
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Floor_Height.png
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/Art/Environment/Shaders/Scenes/Demo/Lightmap-0_comp_light.exr
+Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-up.tif
+Assets/Art/Audio/Nature Sound FX/Water/Water (7) Loop.wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Smoke_Bombs_VFX_Extra_01.tga
+Assets/Art/Orbs/Texture/nc-Fire-Text.png
+Assets/BuildReports/Build_2025-25-août-11-37-35.buildreport
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Height.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (4).wav
+Assets/Scripts/Environment/Fire.cs
+Assets/Documents/Slides/slide 6 (2).png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Demo/Scripts/SkyboxChanger.cs
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (2).wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Props/TexturesMaterials/Props_Emission.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_height.png
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Demo Scene/Scripts/DemoSceneController.cs
+Assets/Documents/Slides/slide 6 (1).png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_height.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_C_Normal.tif
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Front_Tex.png
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (5).wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Space_VFX_Extra_01.tga
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Cracked_Earth01_Heightmap.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalRound/Script/PortalRound_Controller.cs
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Down_2K_TEX.png
+Assets/URP Assets/TutorialInfo/Scripts/Readme.cs
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 3.png
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (3) Loop.wav
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (4).wav
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/column_Normal.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/4K_Resolution/Left_4K_TEX.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Left_4K_TEX.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Flower.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (7) Loop.wav
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Rift/Scripts/Rift_Controller.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Moss_MaskMap.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_roughness.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/Floor_Normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_B_BaseColor.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Front_2K_TEX.png
+Assets/Art/Environment/anubis-divine-temple/textures/GOLD1_roughness.png
+Assets/Art/Environment/temple-environment-crystal/textures/crystalbase_nrm.png
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (2).wav
+Assets/Art/Environment/Shaders/ShaderPack.txt
+Assets/Art/Environment/temple-environment-crystal/textures/trimsheet_nrm.png
+Assets/Art/Audio/Nature Sound FX/Beach/Beach (8) Loop.wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling out (1).wav
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_06.png
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Snow_MaskMap.tif
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (4) Loop.wav
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Brush_Grass_02.png
+Assets/URP Assets/WorldMaterialsFree/Shaders/WorldMatURPFree.shader
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (2).wav
+Assets/Art/Audio/Asian Flavours/0114_JapaneseWinter_Layer1+2_MZ.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Normal.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Demo/ArenaFloorNorm_4096.tga
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/4. Cursed Citadel (Intro).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Errosion02_Heightmap.tif
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_Normal_01.tga
+Assets/Art/Audio/Nature Sound FX/Fire/Fire (3) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/BushDry_B.asset
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Down_4K_TEX.png
+Assets/Documents/Images/bublePlayer-removebg-preview.png
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Right_Tex.png
+Assets/Art/Audio/Nature Sound FX/Fire/Flame (5).wav
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_04.tga
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/Lightmap-0_comp_light.exr
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Soft_Peaks01_Heightmap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Volcano02_Heightmap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Soil_BaseColor.tif
+Assets/Documents/Images/Fresques.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_A_MaskMap.tif
+Assets/Art/characterEffects/shaders/hologramEffect/hologramTextureCool.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Shaders/SH_Vefects_Extra_Grid_01.shader
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Item_Pickup_VFX_Extra_01.tga
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Dust_01.tga
+Assets/Art/Environment/Shaders/Scenes/Demo/ReflectionProbe-0.exr
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (1).wav
+Assets/Art/Audio/Asian Flavours/0113_JapaneseWinter_Layer3_MZ.wav
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_YFliped_Normal.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Terrain Dirt.png
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (5) Loop.wav
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/4. Cursed Citadel (After Intro & Loop).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Height.png
+Assets/Scripts/Manager/TempleData.cs
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the armor (1).wav
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon04_Heightmap.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Props/TexturesMaterials/Props_Normal_GL.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Scenes/Readme.txt
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Bush_A_MaskMap.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Props/TexturesMaterials/Props_Color.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_04_Sunless.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Albedo.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Bush_B.asset
+Assets/URP Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Height.png
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/Art/Environment/Prison cell/Models/Walls/Materials/column_Height.png
+Assets/Art/Audio/6 Boss Battle Tracks/Loops/6. Veil of Eternal Nightfall (Loop).wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_Roughness.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+Assets/Art/Player/Butterfly (Animated)/FBX/butterfly.fbm/butterfly_Albedo.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_Smoothness.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Left_2K_TEX.png
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Flower Leaf.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Terrain)/Texture_Grass_Diffuse.png
+Assets/Art/Audio/Nature Sound FX/Steam/Steam (2).wav
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Noise_Normal_02.tga
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (1) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Rock_BaseColor.tif
+Assets/Art/Environment/Shaders/Magma/MagmaNormal.png
+Assets/Scripts/Manager/TextManager.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Dry_BaseColor.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_C_BaseColor.tif
+Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (9).wav
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+Assets/Art/Environment/Snow Mountain/Source/cubemap/003_Sunrise_SkyboxVol2.hdr
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+Assets/Art/Environment/Prison cell/Example/ReflectionProbe-0.exr
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Smoothness.png
+Assets/Art/Orbs/Texture/nc-InnerGlow.png
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/README.txt
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/ForceFieldW.wav
+Assets/Scripts/Utilities/ActivateFocus.cs
+Assets/Art/Audio/Nature Sound FX/Water/Water (3) Loop.wav
+Assets/URP Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_AO.png
+Assets/Art/Environment/Shaders/Fire/Flame.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Metallic.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_YFliped_normal.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain07_Heightmap.tif
+Assets/Art/Vefects/Free Fire VFX URP/Vefects Fire VFX Info Doc URP.pdf
+Assets/Art/Orbs/Material/Orb-8-2/Sphere 1.mat
+Assets/Documents/Slides/slide 10 (2).png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Cracked_Earth02_Heightmap.tif
+Assets/Art/Audio/Nature Sound FX/Wind/Wind (6) Loop.wav
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Smoke_01.tga
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Albedo.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Heather_A_BaseColor.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Ridge06_Heightmap.tif
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Up_1K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (5).wav
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Vignette_VFX_Extra_01.tga
+Assets/Art/Player/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 2.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Up_2K_TEX.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_Effect_Mask.png
+Assets/Art/Orbs/Texture/nc-Point-of-light.png
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Left_Tex.png
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Right_2K_TEX.png
+Assets/Art/Audio/Nature Sound FX/Fire/Fire (5) Loop.wav
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (3).wav
+Assets/Scripts/Utilities/TimedObjectDestroyer.cs
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffRock_Albedo.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_B_MaskMap.tif
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate_Simple/TexturesMaterials/Portal_Emission.png
+Assets/Art/Audio/Nature Sound FX/Rain/Rain (6) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Fern_B.asset
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Scenes/Textures (Lightmaps)/ReflectionProbe-0.exr
+Assets/Scripts/Player/ThirdPersonCharacterController.cs
+Assets/Art/Vefects/Free Fire VFX URP/Scene/Textures/Metrics_Grid_Base_Color.TGA
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/4K_Resolution/Down_4K_TEX.png
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_Color.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon02_Heightmap.tif
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Pebbles_A_BaseColor.tif
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (3).wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_normal.png
+Assets/Art/Environment/Snow Mountain/Realistic Hail Set/Textures/Particle Med.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_albedo.png
+Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Glow_01.tga
+Assets/Scripts/Manager/GameManager.cs
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Rift/TexturesMaterials/Rift_Color.png
+Assets/Documents/Images/Game Flow.png
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/1K_Resolution/Back_1K_TEX.png
+Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling into (2).wav
+Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Right_4K_TEX.png
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Plateau02_Heightmap.tif
+Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (1).wav
+Assets/Scripts/Environment/Burn.cs
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/Art/Audio/Nature Sound FX/Fire/Fire (1) Loop.wav
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Grass_Dry_MaskMap.tif
+Assets/Art/characterEffects/shaders/iceEffect/iceNormals.png
+Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Slime_VFX_Extra_01.tga
+Assets/Art/Vefects/Free Fire VFX URP/Audio/SFX_FireMedium_L.wav
+Assets/Art/Environment/anubis-divine-temple/textures/19.png
+Assets/Art/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd
+Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Scenes/Main Demo Scene/OcclusionCullingData.asset
+Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_Normal_GL.png
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_normal.png
+Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Height.png
+Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (1).wav
+Assets/Art/Player/koseki-bijou/textures/BibuHairfinishtext.png
+Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_03.png
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+Assets/Art/Vefects/Free Fire VFX URP/_ Vefects Top Secret _.pdf
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Rolling_Hills01_Heightmap.tif
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Slope01_Heightmap.tiff
+Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Snow_BaseColor.tif
+Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_normal.png
+
+Total assets possibly unused: 986
