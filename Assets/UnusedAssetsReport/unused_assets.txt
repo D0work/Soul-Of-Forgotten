@@ -40,11 +40,11 @@ Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-left.tif
 Assets/Art/Environment/Prison cell/Models/Props/Materials/Door_MetallicSmoothness.png
 Assets/Art/Environment/Snow Mountain/Source/tga/mountain_Snow_000_Normal.tga
 Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
-Assets/Art/Orbs/Material/Orb-9-1/Electric 1.mat
+Assets/Art/Environment/Orbs/Material/Orb-9-1/Electric 1.mat
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/spiritsMix1.wav
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain11_Heightmap.tiff
 Assets/Art/Environment/Prison cell/Models/Props/Materials/Table_Normal.png
-Assets/Art/Orbs/Texture/nc-Orb10Text 1.png
+Assets/Art/Environment/Orbs/Texture/nc-Orb10Text 1.png
 Assets/Prefabs/RedDragon 1.2/Assets/Textures/BlackWyvern/Dragon_BlackWyvern_MetallicSmoothness.tga
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Canyon01_Heightmap.tif
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/Wind_ShortW.wav
@@ -136,13 +136,13 @@ Assets/Art/Audio/Nature Sound FX/Avalanche/Avalanche (6).wav
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Errosion01_Heightmap.tif
 Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Sand_MaskMap.tif
-Assets/Art/Orbs/Material/Orb-8-1/Sphere.mat
+Assets/Art/Environment/Orbs/Material/Orb-8-1/Sphere.mat
 Assets/URP Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Normal.png
 Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Textures/Bush Leaves.png
 Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Directional_Dust_01.tga
 Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-front.tif
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Back_1K_TEX.png
-Assets/Art/Orbs/Material/Orb-9-2/Electric 2.mat
+Assets/Art/Environment/Orbs/Material/Orb-9-2/Electric 2.mat
 Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
 Assets/Scripts/Ennemies/DragonController.cs
 Assets/Documents/Slides/slide 7.png
@@ -151,7 +151,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_heig
 Assets/Scripts/Environment/MaterialList.cs
 Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_hitting the body (7).wav
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Plateau01_Heightmap.tif
-Assets/Art/Orbs/Texture/nc-Inside-Glow 1.png
+Assets/Art/Environment/Orbs/Texture/nc-Inside-Glow 1.png
 Assets/Art/Audio/Nature Sound FX/Volcano/Volcano (6).wav
 Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_AO.png
 Assets/URP Assets/TutorialInfo/Icons/URP.png
@@ -307,7 +307,7 @@ Assets/Art/Player/koseki-bijou/textures/Emotes.png
 Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/ReleaseNotes.txt
 Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_Albedo.png
 Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword_pulling out (3).wav
-Assets/Art/Orbs/Texture/nc-Glow-Inner-Text.png
+Assets/Art/Environment/Orbs/Texture/nc-Glow-Inner-Text.png
 Assets/Art/Environment/Snow Mountain/Source/tga/mountain_Snow_000_Aldedo.tga
 Assets/Art/Environment/temple-environment-crystal/textures/Trimsheet_diff.png
 Assets/Art/Audio/Nature Sound FX/Steam/Steam (8) Loop.wav
@@ -363,7 +363,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_smoothness
 Assets/Art/Environment/Proxy Games/Stylized Nature Kit Lite/Scenes/Showcase Demo Scene/OcclusionCullingData.asset
 Assets/Art/Environment/Skyboxes/Animated Sun Skybox/Textures/Front_Tex.png
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Front_4K_TEX.png
-Assets/Art/Orbs/Texture/nc-Blue-Trail-Line.png
+Assets/Art/Environment/Orbs/Texture/nc-Blue-Trail-Line.png
 Assets/Documents/Souls of the Forgotten.pdf
 Assets/Art/Environment/Prison cell/ExampleSettings.lighting
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Volcano01_Heightmap.tif
@@ -377,7 +377,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBri
 Assets/URP Assets/WorldMaterialsFree/Resource Files/HexBricks/HexBricks_AO.png
 Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (1).wav
 Assets/Scripts/Player/Damage.cs
-Assets/Art/Orbs/Texture/nc-Yellow-Trail-Line.png
+Assets/Art/Environment/Orbs/Texture/nc-Yellow-Trail-Line.png
 Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Up_Tex.png
 Assets/URP Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Smoothness.png
 Assets/Documents/Slides/slide 5.png
@@ -449,7 +449,7 @@ Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_N
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif
 Assets/URP Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Terrain/Heather_BaseColor.tif
-Assets/Art/Orbs/Texture/nc-Hollow-Ring 1.png
+Assets/Art/Environment/Orbs/Texture/nc-Hollow-Ring 1.png
 Assets/Art/Audio/Nature Sound FX/Jungle/Jungle (7) Loop.wav
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Plant_B.asset
 Assets/Art/Audio/6 Boss Battle Tracks/Loops/2. Shadowforge Convergence (Loop).wav
@@ -507,7 +507,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfli
 Assets/Art/Environment/Skyboxes/Martian/MartianSkybox2.png
 Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
 Assets/Art/Environment/Shaders/TerrainTex(Delete)/RockN.png
-Assets/Art/Orbs/Documentation/Documentation.pdf
+Assets/Art/Environment/Orbs/Documentation/Documentation.pdf
 Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
 Assets/Art/Vefects/Free Fire VFX URP/Textures/T_VFX_Fire_Ground_Mask_01.tga
 Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Sword/Sword (7).wav
@@ -516,7 +516,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/DesertCliffRock/DesertCliffR
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif
 Assets/URP Assets/WorldMaterialsFree/Resource Files/RuinStoneBricks/RuinStoneBricks_height.png
 Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-Assets/Art/Orbs/Texture/nc-TextureInner.png
+Assets/Art/Environment/Orbs/Texture/nc-TextureInner.png
 Assets/Scripts/Environment/SceneTrigger.cs
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Particles/Sprites/Flare1.png
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/1K_Resolution/Up_1K_TEX.png
@@ -557,7 +557,7 @@ Assets/Scripts/Manager/UIManager.cs
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/Scripts/PortalGate_Controller.cs
 Assets/Art/Audio/Nature Sound FX/__Gift__/Weapons SFX/Klashnikov AK-47/Klashnikov (2).wav
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Models/Fern_C.asset
-Assets/Art/Orbs/Texture/nc-Glow-Circle.png
+Assets/Art/Environment/Orbs/Texture/nc-Glow-Circle.png
 Assets/Art/Player/koseki-bijou/source/BibuAll/Textures/BibuHeadfinishtexturetext.png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/README.pdf
 Assets/Art/Audio/Nature Sound FX/Lighting/Lighting (4).wav
@@ -617,7 +617,7 @@ Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Hills02_H
 Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_roughness.png
 Assets/Scripts/Environment/Respawn.cs
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Hills01_Heightmap.tiff
-Assets/Art/Orbs/Texture/nc-Pink-Hollow-Ring.png
+Assets/Art/Environment/Orbs/Texture/nc-Pink-Hollow-Ring.png
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/2K_Resolution/Down_2K_TEX.png
 Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Roughness.png
 Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
@@ -697,7 +697,7 @@ Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain0
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_2/Textures/4K_Resolution/Up_4K_TEX.png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Details/Grass_A_Thickness.tif
 Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Day_03_Sunless.png
-Assets/Art/Orbs/Texture/nc-Star.png
+Assets/Art/Environment/Orbs/Texture/nc-Star.png
 Assets/Art/Environment/anubis-divine-temple/textures/MARBLE_GREEN_emission.png
 Assets/Art/Environment/Skyboxes/Fantasy Skybox FREE/Cubemaps/Classic/FS000_Night_02_Moonless.png
 Assets/Art/Audio/Nature Sound FX/Beach/Beach (9) Loop.wav
@@ -777,7 +777,7 @@ Assets/Art/Environment/Shaders/Scenes/Demo/Lightmap-0_comp_light.exr
 Assets/Art/Environment/Skyboxes/DiverseSpace/Textures/diversespace-up.tif
 Assets/Art/Audio/Nature Sound FX/Water/Water (7) Loop.wav
 Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Smoke_Bombs_VFX_Extra_01.tga
-Assets/Art/Orbs/Texture/nc-Fire-Text.png
+Assets/Art/Environment/Orbs/Texture/nc-Fire-Text.png
 Assets/BuildReports/Build_2025-25-août-11-37-35.buildreport
 Assets/URP Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Height.png
 Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
@@ -900,7 +900,7 @@ Assets/Art/Environment/Snow Mountain/Source/cubemap/003_Sunrise_SkyboxVol2.hdr
 Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
 Assets/Art/Environment/Prison cell/Example/ReflectionProbe-0.exr
 Assets/URP Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Smoothness.png
-Assets/Art/Orbs/Texture/nc-InnerGlow.png
+Assets/Art/Environment/Orbs/Texture/nc-InnerGlow.png
 Assets/Art/Environment/Snow Mountain/Realistic Hail Set/README.txt
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/Effects/Sound/ForceFieldW.wav
 Assets/Scripts/Utilities/ActivateFocus.cs
@@ -911,7 +911,7 @@ Assets/URP Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Meta
 Assets/URP Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_YFliped_normal.png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Mountain07_Heightmap.tif
 Assets/Art/Vefects/Free Fire VFX URP/Vefects Fire VFX Info Doc URP.pdf
-Assets/Art/Orbs/Material/Orb-8-2/Sphere 1.mat
+Assets/Art/Environment/Orbs/Material/Orb-8-2/Sphere 1.mat
 Assets/Documents/Slides/slide 10 (2).png
 Assets/Art/Environment/Terrain/TerrainSampleAssets/Textures/Heightmaps/Cracked_Earth02_Heightmap.tif
 Assets/Art/Audio/Nature Sound FX/Wind/Wind (6) Loop.wav
@@ -925,7 +925,7 @@ Assets/Art/Vefects/Free Fire VFX URP/_ Extra/Textures/Vefects_Vignette_VFX_Extra
 Assets/Art/Player/Little_GhostLP(FREE)/Texture/Hat/Witch Hat 2.png
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_3/Textures/2K_Resolution/Up_2K_TEX.png
 Assets/Art/Environment/@PaulosCreations/RunesAndPortals/PortalGate/TexturesMaterials/PortalGate_Effect_Mask.png
-Assets/Art/Orbs/Texture/nc-Point-of-light.png
+Assets/Art/Environment/Orbs/Texture/nc-Point-of-light.png
 Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
 Assets/Art/Environment/Skyboxes/Animated Fantasy Planet/Textures/Left_Tex.png
 Assets/Art/Environment/Skyboxes/SpaceSkies Free/Skybox_1/Textures/2K_Resolution/Right_2K_TEX.png
