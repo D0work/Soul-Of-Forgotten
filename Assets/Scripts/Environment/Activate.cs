@@ -30,6 +30,9 @@ public class Activate : MonoBehaviour
     public bool exitOnce = false;
     private bool hasExited = false;
 
+    [Tooltip("Invoke once Check")]
+    public string checkingElement = null;
+
     private void Awake()
     {
         if (awakeOnce)
@@ -48,6 +51,7 @@ public class Activate : MonoBehaviour
 
     private void Start()
     {
+        checkingElement = TempleData.Instance.materialKey;
         if (startOnce)
         {
             if (!hasStarted)
@@ -64,6 +68,7 @@ public class Activate : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (checkElement(other)) { return; }
         if (enterOnce)
         {
             if (!hasEntered)
@@ -80,6 +85,7 @@ public class Activate : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
+        if (checkElement(other)) { return; }
         if (exitOnce)
         {
             if (!hasExited)
@@ -92,5 +98,21 @@ public class Activate : MonoBehaviour
         {
             onTriggerExit.Invoke();
         }
+    }
+
+    private bool checkElement(Collider other)
+    {
+        if (checkingElement != null)
+        {
+            Attributes colliderAttributes  = other.GetComponent<Attributes>()
+                             ?? other.GetComponentInChildren<Attributes>()
+                             ?? other.GetComponentInParent<Attributes>();
+            if (colliderAttributes)
+            {
+                return colliderAttributes.IsAttributeActive(checkingElement);
+            }
+            return false;
+        }
+        return false;
     }
 }

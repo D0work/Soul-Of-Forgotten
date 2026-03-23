@@ -19,6 +19,25 @@ public class Attributes : MonoBehaviour
         hero = AttributeManager.attributeInstance.isHero;
         level = AttributeManager.attributeInstance.level;
     }
+
+    public List<string> GetActiveAttributes()
+    {
+        List<string> activeAttributes = new List<string>();
+
+        if (fire) activeAttributes.Add("fire");
+        if (ice) activeAttributes.Add("ice");
+        if (wind) activeAttributes.Add("wind");
+        if (hero) activeAttributes.Add("hero");
+
+        return activeAttributes;
+    }
+
+    public bool IsAttributeActive(string attribute)
+    {
+        List<string> activeAttributes = GetActiveAttributes();
+        return activeAttributes.Contains(attribute.ToLower());
+    }
+
     public void setAttribute()
     {
         string materialKey = TempleData.Instance.materialKey;
