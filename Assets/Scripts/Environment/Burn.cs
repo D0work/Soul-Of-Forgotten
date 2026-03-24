@@ -19,6 +19,8 @@ public class Burn : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInside = true;
+            player = other.GetComponent<ThirdPersonCharacterController>();
+            a_player = other.GetComponent<Attributes>();
         }
     }
 
@@ -27,6 +29,8 @@ public class Burn : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInside = false;
+            player = null;
+            a_player = null;
         }
     }
 

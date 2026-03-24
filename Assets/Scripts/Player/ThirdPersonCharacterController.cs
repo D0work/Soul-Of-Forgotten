@@ -521,7 +521,7 @@ public class ThirdPersonCharacterController : MonoBehaviour
     {
         isFlying = true;
         characterRigidbody.useGravity = false;
-        characterRigidbody.velocity = Vector3.zero; 
+        characterRigidbody.linearVelocity = Vector3.zero; 
         playerState = PlayerState.Flying;
     }
 

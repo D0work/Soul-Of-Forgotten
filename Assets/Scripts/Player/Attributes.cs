@@ -24,10 +24,10 @@ public class Attributes : MonoBehaviour
     {
         List<string> activeAttributes = new List<string>();
 
-        if (fire) activeAttributes.Add("fire");
-        if (ice) activeAttributes.Add("ice");
-        if (wind) activeAttributes.Add("wind");
-        if (hero) activeAttributes.Add("hero");
+        if (fire == true) activeAttributes.Add("fire");
+        if (ice == true) activeAttributes.Add("ice");
+        if (wind == true) activeAttributes.Add("wind");
+        if (hero == true) activeAttributes.Add("hero");
 
         return activeAttributes;
     }

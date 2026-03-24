@@ -16,6 +16,6 @@ public class Spawner : MonoBehaviour
             rb = proj.AddComponent<Rigidbody>();
             rb.useGravity = false;
         }
-        rb.velocity = dir * speed;
+        rb.linearVelocity = dir * speed;
     }
 }

@@ -33,6 +33,9 @@ public class Activate : MonoBehaviour
     [Tooltip("Invoke once Check")]
     public string checkingElement = null;
 
+    [Tooltip("Element TO Dis/Enable")]
+    public GameObject ControlElement = null;
+
     private void Awake()
     {
         if (awakeOnce)
@@ -114,5 +117,28 @@ public class Activate : MonoBehaviour
             return false;
         }
         return false;
+    }
+
+    public void checkActive(GameObject obj)
+    {
+        if (checkingElement != null) { 
+
+            GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+
+            foreach (GameObject player in players)
+            {
+                Attributes colliderAttributes = player.GetComponent<Attributes>();
+
+                if (colliderAttributes != null)
+                {
+                    if (colliderAttributes.IsAttributeActive(checkingElement))
+                    {
+                        Debug.Log("Element trouve true, on met  à false.");
+                        ControlElement.SetActive(false);
+                        break;
+                    }
+                }
+            }
+        }
     }
 }
