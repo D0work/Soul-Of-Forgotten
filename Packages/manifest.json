@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.ai.navigation": "2.0.14",
+    "com.unity.ai.navigation": "2.0.15",
     "com.unity.build-report-inspector": "0.3.0-preview",
     "com.unity.cinemachine": "2.10.7",
     "com.unity.collab-proxy": "2.13.6",
